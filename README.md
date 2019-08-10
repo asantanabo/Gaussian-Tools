@@ -1,3 +1,5 @@
+# Gaussian tools
+
 This is a collection of scripts to automatize or analyze output produced by the Quantum Chemistry code Gaussian. 
 The first code (frag.py) split a xyz file into molecular fragments for further calculations such as the BSSE. 
 
